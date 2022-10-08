@@ -33,20 +33,10 @@ ___
 
 * [ `INSTAGRAM `](https://instagram.com/annos_007) 
 ___
-# GITHUB
+# FRIENDS
 
 * [ ` Bilal Haider ` ](https://github.com/BilalhaiderID) 
 * [ ` Black Demon ` ](https://github.com/Black19114) 
-___
-
-# FRIENDS
-
-* [ ` Black ` ](github.com/Black19114)
-
-
-
-
-
 ___
 
 ## For Termux
