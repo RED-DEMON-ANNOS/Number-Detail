@@ -5,15 +5,6 @@ ___
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-
-
-</p>
-
-___
-<a href="https://youtu.be/S0UaWdAbfT8"><img src="https://img.shields.io/badge/YouTube-Michael Agam-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA" /><br>
-<a href="https://m.youtube.com/channel/UCbbWYVvhTHz3AzfgYz4fMgg"><img src="https://img.shields.io/youtube/channel/subscribers/UCw78OZWMeMYjMdOP1oYv6XA?style=social" /> <br>
-</p>
-
 ___
 ### [`MY SELF`](https://instagram.com/annos_007)
 ```
@@ -21,7 +12,6 @@ ___
 "Status": "Legends Stay Single",
 "Address": "Straight From The Hell",
 "Age": "19 Years Old",
-"Birthday": "April - 02, 2003"
    
 "Big Thanks To"
 
