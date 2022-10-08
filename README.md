@@ -1,8 +1,7 @@
 <img src="https://github.com/RED-DEMON-ANNOS/RED-DEMON-ANNOS/blob/main/IMAGEI/FB_IMG_16557430804770182.jpg" width="240" height="240" align="center">
 <center>
 ____Anime And Memes____
-<img src="https://github.com/RED-DEMON-ANNOS/Number-Detail/blob/main/Screenshot_20221008-154708.jpg
-.jpg" width="240" height="360" align="center">
+<img src="https://github.com/RED-DEMON-ANNOS/Number-Detail/blob/main/Screenshot_20221008-154708.jpg" width="240" height="360" align="center">
 <center>
 
 ### [`MY SELF`](https://instagram.com/annos_007)
