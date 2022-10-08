@@ -1,11 +1,3 @@
-
-___
-<p align="center">
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-</p>
-___
-
 ### [`MY SELF`](https://instagram.com/annos_007)
 ```
 "Name": "Annos",
@@ -53,6 +45,15 @@ cd Number-Detail
 
 python detail.py
 ```
+<a href="https://github.com/RED-DEMON-ANNOS/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/RED-DEMON-ANNOS?label=Followers&color=red&style=flat-square"></a>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=RED-DEMON-ANNOS/7Crack.visitor-badge&left_text=MyPageVisitors)
+#### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=black)](https://github.com/RED-DEMON-ANNOS) <br>
+[![](https://img.shields.io/badge/Facebook-red?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/MR.ANNOS007) <br>
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/annos_007) <br>
 ___
 <p align="center">
   <a href="https://github.com/RED-DEMON-ANNOS"><img src="https://github-readme-stats.vercel.app/api?username=RED-DEMON-ANNOS&theme=tokyonight&show_icons=true" /></a>
@@ -67,7 +68,9 @@ ___
 </p>
   
 <p align="center">
+
   <a href="https://github.com/RED-DEMON-ANNOS"><img src="https://github-profile-trophy.vercel.app/?username=RED-DEMON-ANNOS&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
 </p>
     
 ___
+<h2> THANKS FOR VISITING  <h2\>
