@@ -1,12 +1,11 @@
-# Number-Detail
-
 
 ___
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-<p
+</p>
 ___
+
 ### [`MY SELF`](https://instagram.com/annos_007)
 ```
 "Name": "Annos",
@@ -24,10 +23,20 @@ ___
 
 * [ `INSTAGRAM `](https://instagram.com/annos_007) 
 ___
-# FRIENDS
+# GITHUB
 
 * [ ` Bilal Haider ` ](https://github.com/BilalhaiderID) 
 * [ ` Black Demon ` ](https://github.com/Black19114) 
+___
+
+# FRIENDS
+
+* [ ` Black ` ](github.com/Black19114)
+
+
+
+
+
 ___
 
 ## For Termux
