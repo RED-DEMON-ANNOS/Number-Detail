@@ -5,6 +5,7 @@ ___
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
+<p
 ___
 ### [`MY SELF`](https://instagram.com/annos_007)
 ```
